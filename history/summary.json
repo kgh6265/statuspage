@@ -22,19 +22,19 @@
     "url": "https://gdclub.ritdubai.ae",
     "icon": "https://icons.duckduckgo.com/ip3/gdclub.ritdubai.ae.ico",
     "slug": "graphic-design-club-domain",
-    "status": "down",
-    "uptime": "0.65%",
-    "uptimeDay": "0.65%",
-    "uptimeWeek": "0.65%",
-    "uptimeMonth": "0.65%",
-    "uptimeYear": "0.65%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "7.69%",
+    "uptimeDay": "7.69%",
+    "uptimeWeek": "7.69%",
+    "uptimeMonth": "7.69%",
+    "uptimeYear": "7.69%",
+    "time": 290,
+    "timeDay": 290,
+    "timeWeek": 290,
+    "timeMonth": 290,
+    "timeYear": 290,
     "dailyMinutesDown": {
-      "2025-01-15": 2
+      "2025-01-15": 17
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-15": 2
+      "2025-01-15": 19
     }
   }
 ]
