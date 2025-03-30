@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 133,
-    "timeWeek": 556,
-    "timeMonth": 273,
+    "timeDay": 0,
+    "timeWeek": 623,
+    "timeMonth": 278,
     "timeYear": 177,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 388,
-    "timeDay": 383,
-    "timeWeek": 548,
-    "timeMonth": 407,
+    "timeDay": 0,
+    "timeWeek": 596,
+    "timeMonth": 412,
     "timeYear": 388,
     "dailyMinutesDown": {
       "2025-01-15": 17
@@ -42,16 +42,16 @@
     "url": "$GDADMIN_RAW",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "graphic-design-club-admin-panel",
-    "status": "up",
-    "uptime": "95.83%",
-    "uptimeDay": "74.54%",
+    "status": "down",
+    "uptime": "95.85%",
+    "uptimeDay": "74.52%",
     "uptimeWeek": "68.29%",
-    "uptimeMonth": "89.77%",
-    "uptimeYear": "95.83%",
+    "uptimeMonth": "89.81%",
+    "uptimeYear": "95.85%",
     "time": 1622,
     "timeDay": 560,
-    "timeWeek": 1797,
-    "timeMonth": 1305,
+    "timeWeek": 1808,
+    "timeMonth": 1307,
     "timeYear": 1622,
     "dailyMinutesDown": {
       "2025-03-30": 366,
@@ -64,7 +64,7 @@
       "2025-03-23": 318,
       "2025-03-22": 376,
       "2025-03-21": 504,
-      "2025-03-20": 84
+      "2025-03-20": 66
     }
   },
   {
@@ -79,9 +79,9 @@
     "uptimeMonth": "98.39%",
     "uptimeYear": "98.63%",
     "time": 2552,
-    "timeDay": 2685,
-    "timeWeek": 4700,
-    "timeMonth": 2990,
+    "timeDay": 644,
+    "timeWeek": 4892,
+    "timeMonth": 2889,
     "timeYear": 2552,
     "dailyMinutesDown": {
       "2025-03-30": 37,
