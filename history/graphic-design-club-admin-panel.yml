@@ -1,7 +1,7 @@
 url: $GDADMIN_RAW
-status: down
-code: 429
-responseTime: 283
-lastUpdated: 2025-07-09T06:15:35.621Z
+status: up
+code: 200
+responseTime: 722
+lastUpdated: 2025-07-09T06:47:06.540Z
 startTime: 2025-01-15T06:55:58.525Z
 generator: Upptime <https://github.com/upptime/upptime>
