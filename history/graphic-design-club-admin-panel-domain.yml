@@ -1,7 +1,7 @@
 url: https://admin.gdclub.ritdubai.ae
-status: up
-code: 200
-responseTime: 4415
-lastUpdated: 2025-07-09T05:53:54.160Z
+status: down
+code: 429
+responseTime: 478
+lastUpdated: 2025-07-09T06:15:37.567Z
 startTime: 2025-01-15T06:55:59.157Z
 generator: Upptime <https://github.com/upptime/upptime>
