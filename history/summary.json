@@ -43,16 +43,16 @@
     "url": "$GDADMIN_RAW",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "graphic-design-club-admin-panel",
-    "status": "up",
-    "uptime": "98.37%",
-    "uptimeDay": "65.52%",
+    "status": "down",
+    "uptime": "98.38%",
+    "uptimeDay": "66.26%",
     "uptimeWeek": "70.02%",
-    "uptimeMonth": "90.06%",
-    "uptimeYear": "98.37%",
+    "uptimeMonth": "90.13%",
+    "uptimeYear": "98.38%",
     "time": 2035,
-    "timeDay": 5131,
+    "timeDay": 5399,
     "timeWeek": 3288,
-    "timeMonth": 3177,
+    "timeMonth": 3176,
     "timeYear": 2035,
     "dailyMinutesDown": {
       "2025-07-19": 332,
@@ -65,7 +65,7 @@
       "2025-07-12": 498,
       "2025-07-11": 437,
       "2025-07-10": 414,
-      "2025-07-09": 56
+      "2025-07-09": 26
     }
   },
   {
