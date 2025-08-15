@@ -1,7 +1,7 @@
 url: $GDWEBSITE_RAW
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-15T19:24:02.871Z
+status: up
+code: 200
+responseTime: 184
+lastUpdated: 2025-08-15T19:32:31.429Z
 startTime: 2025-01-15T06:55:56.067Z
 generator: Upptime <https://github.com/upptime/upptime>
