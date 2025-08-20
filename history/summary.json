@@ -6,9 +6,9 @@
     "slug": "graphic-design-club-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 166,
     "timeDay": 153,
@@ -16,7 +16,6 @@
     "timeMonth": 157,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2025-08-20": 8,
       "2025-07-26": 29
     }
   },
@@ -27,9 +26,9 @@
     "slug": "graphic-design-club-domain",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.92%",
     "time": 411,
     "timeDay": 318,
@@ -37,7 +36,6 @@
     "timeMonth": 402,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2025-08-20": 8,
       "2025-07-26": 29,
       "2025-06-30": 194,
       "2025-01-15": 17
@@ -48,12 +46,12 @@
     "url": "$GDADMIN_RAW",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "graphic-design-club-admin-panel",
-    "status": "up",
-    "uptime": "98.83%",
-    "uptimeDay": "82.27%",
+    "status": "down",
+    "uptime": "98.85%",
+    "uptimeDay": "82.26%",
     "uptimeWeek": "86.54%",
-    "uptimeMonth": "91.66%",
-    "uptimeYear": "98.83%",
+    "uptimeMonth": "91.74%",
+    "uptimeYear": "98.85%",
     "time": 2538,
     "timeDay": 5163,
     "timeWeek": 6433,
@@ -75,7 +73,7 @@
       "2025-08-08": 269,
       "2025-08-07": 441,
       "2025-08-06": 419,
-      "2025-08-05": 105
+      "2025-08-05": 67
     }
   },
   {
@@ -85,9 +83,9 @@
     "slug": "graphic-design-club-admin-panel-domain",
     "status": "up",
     "uptime": "99.03%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.38%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.39%",
     "uptimeYear": "99.03%",
     "time": 2995,
     "timeDay": 514,
@@ -95,7 +93,6 @@
     "timeMonth": 3664,
     "timeYear": 2995,
     "dailyMinutesDown": {
-      "2025-08-20": 5,
       "2025-08-16": 21,
       "2025-08-12": 35,
       "2025-08-06": 47,
