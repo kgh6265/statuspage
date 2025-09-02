@@ -12,7 +12,7 @@
     "uptimeYear": "99.91%",
     "time": 166,
     "timeDay": 78,
-    "timeWeek": 167,
+    "timeWeek": 162,
     "timeMonth": 164,
     "timeYear": 166,
     "dailyMinutesDown": {
@@ -39,7 +39,7 @@
     "uptimeYear": "99.85%",
     "time": 413,
     "timeDay": 367,
-    "timeWeek": 448,
+    "timeWeek": 451,
     "timeMonth": 432,
     "timeYear": 413,
     "dailyMinutesDown": {
@@ -60,19 +60,19 @@
     "url": "$GDADMIN_RAW",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "graphic-design-club-admin-panel",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "83.55%",
-    "uptimeWeek": "84.89%",
-    "uptimeMonth": "92.08%",
-    "uptimeYear": "98.95%",
+    "status": "down",
+    "uptime": "98.96%",
+    "uptimeDay": "83.50%",
+    "uptimeWeek": "84.88%",
+    "uptimeMonth": "92.14%",
+    "uptimeYear": "98.96%",
     "time": 2674,
     "timeDay": 3516,
     "timeWeek": 4524,
     "timeMonth": 6830,
     "timeYear": 2674,
     "dailyMinutesDown": {
-      "2025-09-02": 223,
+      "2025-09-02": 224,
       "2025-09-01": 227,
       "2025-08-31": 202,
       "2025-08-30": 155,
@@ -89,7 +89,7 @@
       "2025-08-19": 134,
       "2025-08-18": 316,
       "2025-08-17": 115,
-      "2025-08-16": 68
+      "2025-08-16": 41
     }
   },
   {
