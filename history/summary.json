@@ -62,17 +62,17 @@
     "slug": "graphic-design-club-admin-panel",
     "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "89.67%",
-    "uptimeWeek": "86.51%",
-    "uptimeMonth": "92.26%",
+    "uptimeDay": "90.52%",
+    "uptimeWeek": "86.63%",
+    "uptimeMonth": "92.25%",
     "uptimeYear": "98.99%",
     "time": 2680,
     "timeDay": 5141,
     "timeWeek": 3575,
-    "timeMonth": 6324,
+    "timeMonth": 6340,
     "timeYear": 2680,
     "dailyMinutesDown": {
-      "2025-09-05": 149,
+      "2025-09-05": 137,
       "2025-09-04": 215,
       "2025-09-03": 139,
       "2025-09-02": 275,
@@ -88,7 +88,8 @@
       "2025-08-23": 57,
       "2025-08-22": 141,
       "2025-08-21": 143,
-      "2025-08-20": 238
+      "2025-08-20": 238,
+      "2025-08-19": 18
     }
   },
   {
