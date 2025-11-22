@@ -12,7 +12,7 @@
     "uptimeYear": "99.92%",
     "time": 168,
     "timeDay": 178,
-    "timeWeek": 183,
+    "timeWeek": 154,
     "timeMonth": 186,
     "timeYear": 168,
     "dailyMinutesDown": {
@@ -41,7 +41,7 @@
     "uptimeYear": "99.88%",
     "time": 407,
     "timeDay": 456,
-    "timeWeek": 318,
+    "timeWeek": 331,
     "timeMonth": 360,
     "timeYear": 407,
     "dailyMinutesDown": {
@@ -66,17 +66,17 @@
     "slug": "graphic-design-club-admin-panel",
     "status": "up",
     "uptime": "99.01%",
-    "uptimeDay": "66.59%",
-    "uptimeWeek": "76.99%",
-    "uptimeMonth": "89.94%",
+    "uptimeDay": "75.20%",
+    "uptimeWeek": "77.04%",
+    "uptimeMonth": "89.91%",
     "uptimeYear": "99.01%",
     "time": 2713,
-    "timeDay": 487,
-    "timeWeek": 2703,
+    "timeDay": 486,
+    "timeWeek": 2477,
     "timeMonth": 2572,
     "timeYear": 2713,
     "dailyMinutesDown": {
-      "2025-11-21": 436,
+      "2025-11-21": 432,
       "2025-11-20": 329,
       "2025-11-19": 290,
       "2025-11-18": 325,
@@ -90,7 +90,7 @@
       "2025-11-10": 395,
       "2025-11-09": 235,
       "2025-11-08": 133,
-      "2025-11-07": 108
+      "2025-11-07": 124
     }
   },
   {
@@ -106,7 +106,7 @@
     "uptimeYear": "99.31%",
     "time": 3000,
     "timeDay": 4793,
-    "timeWeek": 3374,
+    "timeWeek": 3558,
     "timeMonth": 3416,
     "timeYear": 3000,
     "dailyMinutesDown": {
