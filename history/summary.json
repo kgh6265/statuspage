@@ -64,19 +64,19 @@
     "url": "$GDADMIN_RAW",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "graphic-design-club-admin-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "70.34%",
-    "uptimeWeek": "64.77%",
-    "uptimeMonth": "88.89%",
+    "uptimeDay": "70.22%",
+    "uptimeWeek": "64.78%",
+    "uptimeMonth": "88.96%",
     "uptimeYear": "99.01%",
     "time": 2633,
     "timeDay": 447,
-    "timeWeek": 2050,
-    "timeMonth": 1795,
+    "timeWeek": 2064,
+    "timeMonth": 1797,
     "timeYear": 2633,
     "dailyMinutesDown": {
-      "2025-12-21": 345,
+      "2025-12-21": 347,
       "2025-12-20": 204,
       "2025-12-19": 496,
       "2025-12-18": 561,
@@ -85,8 +85,7 @@
       "2025-12-15": 625,
       "2025-12-14": 392,
       "2025-12-13": 420,
-      "2025-12-12": 618,
-      "2025-12-11": 34
+      "2025-12-12": 618
     }
   },
   {
@@ -94,19 +93,19 @@
     "url": "https://admin.gdclub.ritdubai.ae",
     "icon": "https://icons.duckduckgo.com/ip3/admin.gdclub.ritdubai.ae.ico",
     "slug": "graphic-design-club-admin-panel-domain",
-    "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "94.73%",
-    "uptimeWeek": "96.13%",
-    "uptimeMonth": "97.00%",
-    "uptimeYear": "99.38%",
+    "status": "down",
+    "uptime": "99.39%",
+    "uptimeDay": "94.67%",
+    "uptimeWeek": "96.12%",
+    "uptimeMonth": "97.03%",
+    "uptimeYear": "99.39%",
     "time": 3284,
     "timeDay": 8987,
     "timeWeek": 4466,
     "timeMonth": 5130,
     "timeYear": 3284,
     "dailyMinutesDown": {
-      "2025-12-21": 76,
+      "2025-12-21": 77,
       "2025-12-19": 89,
       "2025-12-18": 66,
       "2025-12-17": 61,
@@ -173,8 +172,7 @@
       "2025-06-30": 174,
       "2025-06-27": 39,
       "2025-06-24": 20,
-      "2025-06-19": 16,
-      "2025-06-17": 33
+      "2025-06-19": 16
     }
   }
 ]
