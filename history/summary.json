@@ -65,17 +65,17 @@
     "slug": "graphic-design-club-admin-panel",
     "status": "down",
     "uptime": "98.16%",
-    "uptimeDay": "36.15%",
-    "uptimeWeek": "44.49%",
-    "uptimeMonth": "75.05%",
+    "uptimeDay": "35.35%",
+    "uptimeWeek": "44.27%",
+    "uptimeMonth": "75.00%",
     "uptimeYear": "97.92%",
     "time": 2870,
     "timeDay": 5871,
     "timeWeek": 4153,
-    "timeMonth": 5360,
+    "timeMonth": 5271,
     "timeYear": 2888,
     "dailyMinutesDown": {
-      "2026-03-03": 836,
+      "2026-03-03": 858,
       "2026-03-02": 843,
       "2026-03-01": 495,
       "2026-02-28": 579,
@@ -96,11 +96,11 @@
     "url": "https://admin.gdclub.ritdubai.ae",
     "icon": "https://icons.duckduckgo.com/ip3/admin.gdclub.ritdubai.ae.ico",
     "slug": "graphic-design-club-admin-panel-domain",
-    "status": "up",
+    "status": "down",
     "uptime": "98.60%",
-    "uptimeDay": "74.51%",
-    "uptimeWeek": "89.66%",
-    "uptimeMonth": "83.74%",
+    "uptimeDay": "74.45%",
+    "uptimeWeek": "89.65%",
+    "uptimeMonth": "83.73%",
     "uptimeYear": "98.42%",
     "time": 4100,
     "timeDay": 7755,
@@ -108,7 +108,7 @@
     "timeMonth": 5846,
     "timeYear": 4263,
     "dailyMinutesDown": {
-      "2026-03-03": 368,
+      "2026-03-03": 369,
       "2026-03-02": 42,
       "2026-03-01": 93,
       "2026-02-28": 82,
@@ -151,8 +151,7 @@
       "2026-01-14": 52,
       "2026-01-13": 24,
       "2026-01-12": 80,
-      "2026-01-11": 77,
-      "2026-01-10": 17
+      "2026-01-11": 77
     }
   }
 ]
