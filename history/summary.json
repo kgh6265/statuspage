@@ -12,7 +12,7 @@
     "uptimeYear": "99.94%",
     "time": 164,
     "timeDay": 174,
-    "timeWeek": 185,
+    "timeWeek": 186,
     "timeMonth": 148,
     "timeYear": 168,
     "dailyMinutesDown": {
@@ -41,8 +41,8 @@
     "uptimeYear": "99.90%",
     "time": 399,
     "timeDay": 244,
-    "timeWeek": 367,
-    "timeMonth": 392,
+    "timeWeek": 338,
+    "timeMonth": 396,
     "timeYear": 401,
     "dailyMinutesDown": {
       "2025-11-20": 22,
@@ -63,17 +63,17 @@
     "url": "$GDADMIN_RAW",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "graphic-design-club-admin-panel",
-    "status": "up",
-    "uptime": "98.15%",
-    "uptimeDay": "32.25%",
-    "uptimeWeek": "43.73%",
-    "uptimeMonth": "74.88%",
-    "uptimeYear": "97.91%",
+    "status": "down",
+    "uptime": "98.17%",
+    "uptimeDay": "32.22%",
+    "uptimeWeek": "43.77%",
+    "uptimeMonth": "75.18%",
+    "uptimeYear": "97.93%",
     "time": 2865,
-    "timeDay": 440,
-    "timeWeek": 4046,
-    "timeMonth": 5230,
-    "timeYear": 2887,
+    "timeDay": 460,
+    "timeWeek": 4095,
+    "timeMonth": 5240,
+    "timeYear": 2888,
     "dailyMinutesDown": {
       "2026-03-03": 976,
       "2026-03-02": 843,
@@ -88,7 +88,7 @@
       "2026-02-21": 572,
       "2026-02-20": 713,
       "2026-02-19": 993,
-      "2026-02-18": 418
+      "2026-02-18": 289
     }
   },
   {
@@ -104,8 +104,8 @@
     "uptimeYear": "98.42%",
     "time": 4125,
     "timeDay": 7158,
-    "timeWeek": 5257,
-    "timeMonth": 5914,
+    "timeWeek": 5412,
+    "timeMonth": 5968,
     "timeYear": 4256,
     "dailyMinutesDown": {
       "2026-03-03": 440,
