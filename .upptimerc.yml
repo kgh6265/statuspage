@@ -3,16 +3,16 @@ owner: kgh6265 # Your GitHub organization or username, where this repository liv
 repo: statuspage # The name of this repository
 
 sites:
-  - name: Student Government website (sg.ritdubai.ae)
+  - name: Student Government Website (sg.ritdubai.ae)
     url: https://sg.ritdubai.ae
-  - name: RIT MUN website (ritmun.ritdubai.ae)
+  - name: RIT MUN Website (ritmun.ritdubai.ae)
     url: https://ritmun.ritdubai.ae
     maxResponseTime: 90000
-  - name: Graphic Design Club website (Vercel)
+  - name: Graphic Design Club Website (Vercel)
     url: $GDWEBSITE_RAW
   - name: Graphic Design Club DNS & Routing (gdclub.ritdubai.ae)
     url: https://gdclub.ritdubai.ae
-  - name: Graphic Design Club admin panel instance (Render)
+  - name: Graphic Design Club Admin Panel Instance (Render)
     url: $GDADMIN_RAW
     maxResponseTime: 90000
   - name: Graphic Design Club Admin Panel DNS & Routing
