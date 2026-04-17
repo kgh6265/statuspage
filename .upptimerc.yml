@@ -3,14 +3,21 @@ owner: kgh6265 # Your GitHub organization or username, where this repository liv
 repo: statuspage # The name of this repository
 
 sites:
-  - name: Graphic Design Club Website
+  - name: Student Government website (sg.ritdubai.ae)
+    url: https://sg.ritdubai.ae
+  - name: RIT MUN website (mun.ritdubai.ae)
+    url: https://mun.ritdubai.ae
+    maxResponseTime: 90000
+  - name: Graphic Design Club website (Vercel)
     url: $GDWEBSITE_RAW
-  - name: Graphic Design Club Domain
+  - name: Graphic Design Club DNS & Routing (gdclub.ritdubai.ae)
     url: https://gdclub.ritdubai.ae
-  - name: Graphic Design Club Admin Panel
+  - name: Graphic Design Club admin panel instance (Render)
     url: $GDADMIN_RAW
-  - name: Graphic Design Club Admin Panel Domain
+    maxResponseTime: 90000
+  - name: Graphic Design Club Admin Panel DNS & Routing
     url: https://admin.gdclub.ritdubai.ae
+    maxResponseTime: 90000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,14 +25,14 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /statuspage
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: "RIT Dubai Graphic Design Club Status"
-  introTitle: "Keep an eye on our essential systems that power the Graphic Design Club."
-  introMessage: This is a status page which uses **real-time** data to keep track of our essential web services. Powered by Upptime.
+  name: "Khaleel's RIT Statuspage"
+  introTitle: "Keep an eye on online services at RIT Dubai."
+  introMessage: This is a status page which uses **real-time** data to keep track of essential web services at RIT Dubai, including the Student Government and club websites. Powered by Upptime.
   navbar:
     - title: Status
       href: /
     - title: Website
-      href: https://gdclub.ritdubai.ae
+      href: https://sg.ritdubai.ae
   theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
