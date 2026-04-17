@@ -5,8 +5,8 @@ repo: statuspage # The name of this repository
 sites:
   - name: Student Government website (sg.ritdubai.ae)
     url: https://sg.ritdubai.ae
-  - name: RIT MUN website (mun.ritdubai.ae)
-    url: https://mun.ritdubai.ae
+  - name: RIT MUN website (ritmun.ritdubai.ae)
+    url: https://ritmun.ritdubai.ae
     maxResponseTime: 90000
   - name: Graphic Design Club website (Vercel)
     url: $GDWEBSITE_RAW
