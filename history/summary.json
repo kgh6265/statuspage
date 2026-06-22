@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/sg.ritdubai.ae.ico",
     "slug": "student-government-website-sg-ritdubai-ae",
     "status": "down",
-    "uptime": "93.18%",
-    "uptimeDay": "91.45%",
-    "uptimeWeek": "87.87%",
-    "uptimeMonth": "88.62%",
-    "uptimeYear": "93.18%",
+    "uptime": "93.07%",
+    "uptimeDay": "83.44%",
+    "uptimeWeek": "87.18%",
+    "uptimeMonth": "88.35%",
+    "uptimeYear": "93.07%",
     "time": 679,
     "timeDay": 506,
-    "timeWeek": 591,
+    "timeWeek": 594,
     "timeMonth": 611,
     "timeYear": 679,
     "dailyMinutesDown": {
@@ -50,7 +50,7 @@
       "2026-06-19": 111,
       "2026-06-20": 371,
       "2026-06-21": 115,
-      "2026-06-22": 8
+      "2026-06-22": 123
     }
   },
   {
@@ -59,14 +59,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/ritmun.ritdubai.ae.ico",
     "slug": "rit-mun-website-ritmun-ritdubai-ae",
     "status": "down",
-    "uptime": "93.19%",
-    "uptimeDay": "91.49%",
-    "uptimeWeek": "87.89%",
-    "uptimeMonth": "88.63%",
-    "uptimeYear": "93.19%",
+    "uptime": "93.07%",
+    "uptimeDay": "83.49%",
+    "uptimeWeek": "87.20%",
+    "uptimeMonth": "88.37%",
+    "uptimeYear": "93.07%",
     "time": 574,
     "timeDay": 445,
-    "timeWeek": 505,
+    "timeWeek": 509,
     "timeMonth": 553,
     "timeYear": 574,
     "dailyMinutesDown": {
@@ -104,7 +104,7 @@
       "2026-06-19": 110,
       "2026-06-20": 369,
       "2026-06-21": 114,
-      "2026-06-22": 8
+      "2026-06-22": 123
     }
   },
   {
@@ -149,11 +149,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "graphic-design-club-admin-panel-instance-render",
     "status": "up",
-    "uptime": "79.10%",
+    "uptime": "79.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "79.10%",
+    "uptimeYear": "79.13%",
     "time": 13698,
     "timeDay": 611,
     "timeWeek": 28529,
