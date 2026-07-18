@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sg.ritdubai.ae.ico",
     "slug": "student-government-website-sg-ritdubai-ae",
     "status": "down",
-    "uptime": "89.27%",
-    "uptimeDay": "91.32%",
-    "uptimeWeek": "87.37%",
-    "uptimeMonth": "80.68%",
-    "uptimeYear": "89.27%",
+    "uptime": "89.19%",
+    "uptimeDay": "82.95%",
+    "uptimeWeek": "86.20%",
+    "uptimeMonth": "80.40%",
+    "uptimeYear": "89.19%",
     "time": 656,
     "timeDay": 549,
-    "timeWeek": 567,
-    "timeMonth": 619,
+    "timeWeek": 569,
+    "timeMonth": 620,
     "timeYear": 656,
     "dailyMinutesDown": {
       "2026-04-21": 39,
@@ -72,7 +72,7 @@
       "2026-07-14": 152,
       "2026-07-15": 312,
       "2026-07-17": 124,
-      "2026-07-18": 1
+      "2026-07-18": 122
     }
   },
   {
@@ -81,15 +81,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ritmun.ritdubai.ae.ico",
     "slug": "rit-mun-website-ritmun-ritdubai-ae",
     "status": "down",
-    "uptime": "89.26%",
-    "uptimeDay": "91.36%",
-    "uptimeWeek": "86.63%",
-    "uptimeMonth": "80.54%",
-    "uptimeYear": "89.26%",
+    "uptime": "89.18%",
+    "uptimeDay": "82.99%",
+    "uptimeWeek": "85.46%",
+    "uptimeMonth": "80.26%",
+    "uptimeYear": "89.18%",
     "time": 601,
     "timeDay": 527,
-    "timeWeek": 500,
-    "timeMonth": 620,
+    "timeWeek": 502,
+    "timeMonth": 621,
     "timeYear": 601,
     "dailyMinutesDown": {
       "2026-04-22": 170,
@@ -147,7 +147,7 @@
       "2026-07-14": 152,
       "2026-07-15": 312,
       "2026-07-17": 123,
-      "2026-07-18": 1
+      "2026-07-18": 122
     }
   },
   {
@@ -164,7 +164,7 @@
     "time": 148,
     "timeDay": 91,
     "timeWeek": 186,
-    "timeMonth": 171,
+    "timeMonth": 170,
     "timeYear": 148,
     "dailyMinutesDown": {}
   },
@@ -182,7 +182,7 @@
     "time": 323,
     "timeDay": 304,
     "timeWeek": 355,
-    "timeMonth": 338,
+    "timeMonth": 343,
     "timeYear": 323,
     "dailyMinutesDown": {}
   },
@@ -192,15 +192,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "graphic-design-club-admin-panel-instance-render",
     "status": "up",
-    "uptime": "85.04%",
+    "uptime": "85.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.04%",
+    "uptimeYear": "85.05%",
     "time": 14115,
     "timeDay": 492,
     "timeWeek": 24788,
-    "timeMonth": 18110,
+    "timeMonth": 17334,
     "timeYear": 14115,
     "dailyMinutesDown": {
       "2026-04-17": 191,
@@ -239,7 +239,7 @@
     "time": 1980,
     "timeDay": 481,
     "timeWeek": 415,
-    "timeMonth": 493,
+    "timeMonth": 492,
     "timeYear": 1980,
     "dailyMinutesDown": {
       "2026-04-24": 46,
