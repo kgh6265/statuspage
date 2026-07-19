@@ -4,16 +4,16 @@
     "url": "https://sg.ritdubai.ae",
     "icon": "https://icons.duckduckgo.com/ip3/sg.ritdubai.ae.ico",
     "slug": "student-government-website-sg-ritdubai-ae",
-    "status": "down",
-    "uptime": "89.31%",
-    "uptimeDay": "83.72%",
-    "uptimeWeek": "86.07%",
-    "uptimeMonth": "79.48%",
-    "uptimeYear": "89.31%",
+    "status": "up",
+    "uptime": "89.28%",
+    "uptimeDay": "80.21%",
+    "uptimeWeek": "85.54%",
+    "uptimeMonth": "79.36%",
+    "uptimeYear": "89.28%",
     "time": 655,
-    "timeDay": 673,
-    "timeWeek": 608,
-    "timeMonth": 619,
+    "timeDay": 652,
+    "timeWeek": 605,
+    "timeMonth": 618,
     "timeYear": 655,
     "dailyMinutesDown": {
       "2026-04-24": 43,
@@ -71,7 +71,7 @@
       "2026-07-15": 312,
       "2026-07-17": 124,
       "2026-07-18": 633,
-      "2026-07-19": 1
+      "2026-07-19": 55
     }
   },
   {
@@ -79,17 +79,17 @@
     "url": "https://ritmun.ritdubai.ae",
     "icon": "https://icons.duckduckgo.com/ip3/ritmun.ritdubai.ae.ico",
     "slug": "rit-mun-website-ritmun-ritdubai-ae",
-    "status": "down",
-    "uptime": "89.31%",
-    "uptimeDay": "83.78%",
-    "uptimeWeek": "86.10%",
-    "uptimeMonth": "79.35%",
-    "uptimeYear": "89.31%",
-    "time": 600,
-    "timeDay": 592,
-    "timeWeek": 538,
-    "timeMonth": 617,
-    "timeYear": 600,
+    "status": "up",
+    "uptime": "89.27%",
+    "uptimeDay": "80.25%",
+    "uptimeWeek": "85.57%",
+    "uptimeMonth": "79.23%",
+    "uptimeYear": "89.27%",
+    "time": 599,
+    "timeDay": 560,
+    "timeWeek": 534,
+    "timeMonth": 615,
+    "timeYear": 599,
     "dailyMinutesDown": {
       "2026-04-29": 147,
       "2026-05-01": 67,
@@ -145,7 +145,7 @@
       "2026-07-15": 312,
       "2026-07-17": 123,
       "2026-07-18": 632,
-      "2026-07-19": 1
+      "2026-07-19": 54
     }
   },
   {
