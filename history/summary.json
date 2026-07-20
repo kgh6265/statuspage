@@ -4,17 +4,17 @@
     "url": "https://sg.ritdubai.ae",
     "icon": "https://icons.duckduckgo.com/ip3/sg.ritdubai.ae.ico",
     "slug": "student-government-website-sg-ritdubai-ae",
-    "status": "down",
-    "uptime": "89.35%",
-    "uptimeDay": "96.11%",
-    "uptimeWeek": "85.53%",
-    "uptimeMonth": "79.36%",
-    "uptimeYear": "89.35%",
-    "time": 655,
-    "timeDay": 539,
-    "timeWeek": 606,
-    "timeMonth": 618,
-    "timeYear": 655,
+    "status": "up",
+    "uptime": "89.34%",
+    "uptimeDay": "94.88%",
+    "uptimeWeek": "85.35%",
+    "uptimeMonth": "79.32%",
+    "uptimeYear": "89.34%",
+    "time": 656,
+    "timeDay": 616,
+    "timeWeek": 613,
+    "timeMonth": 621,
+    "timeYear": 656,
     "dailyMinutesDown": {
       "2026-04-29": 147,
       "2026-05-01": 67,
@@ -70,7 +70,8 @@
       "2026-07-15": 312,
       "2026-07-17": 124,
       "2026-07-18": 633,
-      "2026-07-19": 56
+      "2026-07-19": 62,
+      "2026-07-20": 12
     }
   },
   {
@@ -78,16 +79,16 @@
     "url": "https://ritmun.ritdubai.ae",
     "icon": "https://icons.duckduckgo.com/ip3/ritmun.ritdubai.ae.ico",
     "slug": "rit-mun-website-ritmun-ritdubai-ae",
-    "status": "down",
-    "uptime": "89.42%",
-    "uptimeDay": "96.15%",
-    "uptimeWeek": "85.56%",
-    "uptimeMonth": "79.22%",
-    "uptimeYear": "89.42%",
+    "status": "up",
+    "uptime": "89.41%",
+    "uptimeDay": "94.98%",
+    "uptimeWeek": "85.39%",
+    "uptimeMonth": "79.19%",
+    "uptimeYear": "89.41%",
     "time": 599,
-    "timeDay": 483,
-    "timeWeek": 538,
-    "timeMonth": 616,
+    "timeDay": 532,
+    "timeWeek": 542,
+    "timeMonth": 617,
     "timeYear": 599,
     "dailyMinutesDown": {
       "2026-05-01": 67,
@@ -143,7 +144,8 @@
       "2026-07-15": 312,
       "2026-07-17": 123,
       "2026-07-18": 632,
-      "2026-07-19": 55
+      "2026-07-19": 61,
+      "2026-07-20": 11
     }
   },
   {
@@ -160,7 +162,7 @@
     "time": 147,
     "timeDay": 52,
     "timeWeek": 168,
-    "timeMonth": 169,
+    "timeMonth": 171,
     "timeYear": 147,
     "dailyMinutesDown": {}
   },
@@ -178,7 +180,7 @@
     "time": 321,
     "timeDay": 201,
     "timeWeek": 343,
-    "timeMonth": 337,
+    "timeMonth": 341,
     "timeYear": 321,
     "dailyMinutesDown": {}
   },
@@ -196,7 +198,7 @@
     "time": 14660,
     "timeDay": 53179,
     "timeWeek": 32248,
-    "timeMonth": 19498,
+    "timeMonth": 18772,
     "timeYear": 14660,
     "dailyMinutesDown": {
       "2026-04-17": 191,
@@ -235,7 +237,7 @@
     "time": 1948,
     "timeDay": 366,
     "timeWeek": 430,
-    "timeMonth": 480,
+    "timeMonth": 486,
     "timeYear": 1948,
     "dailyMinutesDown": {
       "2026-04-24": 46,
